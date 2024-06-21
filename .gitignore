@@ -1,0 +1,21 @@
+/.pytest_cache
+/.vscode
+/.terraform
+/petshop-api.zip
+/terraform.tfstate
+/terraform.tfstate.backup
+/variables.tf
+
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# Local environment
+.env
